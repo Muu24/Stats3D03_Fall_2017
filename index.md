@@ -1,4 +1,4 @@
-##Stats 3D03 Fall, 2017
+## Stats 3D03 Fall, 2017
 ### Outline
 
 * [Course Outline](https://muu24.github.io/Stats3D03_Fall_2017/assignment/Stats3D_Outline.pdf)
