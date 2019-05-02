@@ -3,8 +3,7 @@
 
 * [Course Outline](https://muu24.github.io/Stats3D03_Fall_2017/assignment/Stats3D_Outline.pdf)
 * Stats 3D03 Fall, 2017 at McMaster University
-* This is a course taught by Prof. Balakrishnan and I was the TA for it. through that semester, I wrote some answers for the assignments and practice problems and save it as this permanent link. If you find some mistakes please feel free to let me know.
-
+* This is a course taught by Prof. Balakrishnan.
 ### Assignments
 
 * [Assignment 1](https://muu24.github.io/Stats3D03_Fall_2017/assignment/Assignment_1.pdf)
